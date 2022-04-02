@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Jaque :)
-- 👀 I’m interested in games, books, and etc
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+✨✨✨✨✨✨✨✨✨✨✨
+- 👋 Hi, I’m Jaque X)
+- 👀 I’m interested in games, books, codes and etc
+- 🌱 I’m currently learning a little bit of everything but focused on some more objective things. 
+- 💞️ I’m looking to collaborate on in everything I'm willing to do.
+- 📫 How to reach me: (I AM INVISIBLE HUAUAUA)
+✨✨✨✨✨✨✨✨✨✨✨
 
 <!---
-Jaque-SM/Jaque-SM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
